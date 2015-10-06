@@ -1,6 +1,15 @@
 /* CSS my styling */
 
-h1 
-{
-    color: chartreuse;
+
+.first  {
+  color:  lightblue;
+}
+
+.last {
+  color: gold;
+}
+
+.char20 {
+ font-size: 50px;
+    color: gold;
 }
